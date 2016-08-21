@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Renungan JOY",
+        "meta_descr": "Renungan JOY",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_params": {
+            "bgImage": "images/bg.jpg",
+            "centered": true,
+            "overlay": false
+          },
+          "text": "<h1>JOY</h1><p>Renungan harian Katolik bercita rasa anak muda.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">Masuk</a>"
+        },
+        {
+          "_name": "footer1",
+          "_alwaysBottom": true,
+          "_noDrag": true,
+          "text": "Renungan JOY © 2015"
+        }
+      ]
+    }
+  }
+}
